@@ -1,4 +1,5 @@
 import "./styles.css";
+import "./Die.css";
 
 import Hello from "./Hello";
 import Dog from "./Dog";
